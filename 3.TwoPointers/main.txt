@@ -1,0 +1,2 @@
+Usage: This technique uses two pointers to iterate input data. Generally, both pointers move in the opposite direction at a constant interval.
+DS Involved: Array, String, LinkedList

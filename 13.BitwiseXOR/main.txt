@@ -1,0 +1,2 @@
+Usage: This technique uses the XOR operator to manipulate bits to solve problems.
+DS Involved: Array, Bits

@@ -1,0 +1,2 @@
+Usage: Use this technique to search a sorted set of elements efficiently.
+DS Involved: Array

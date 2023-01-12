@@ -1,0 +1,2 @@
+Usage: This technique is used to deal with overlapping intervals.
+DS Involved: Array, Heap

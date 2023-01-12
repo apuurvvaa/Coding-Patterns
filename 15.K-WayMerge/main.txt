@@ -1,0 +1,3 @@
+
+Usage: This technique helps us solve problems that involve a list of sorted arrays.
+DS Involved: Array, Queue, Heap

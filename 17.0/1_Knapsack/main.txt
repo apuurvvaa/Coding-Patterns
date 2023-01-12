@@ -1,0 +1,2 @@
+Usage: This technique is used to solve optimization problems. Use this technique to select elements that give maximum profit from a given set with a limitation on capacity and that each element can only be picked once.
+DS Involved: Array, HashTable

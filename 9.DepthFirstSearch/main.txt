@@ -1,0 +1,2 @@
+Usage: This technique is used to solve problems involving traversing trees or graphs in a depth-first search manner.
+DS Involved: Tree, Graph, Matrix

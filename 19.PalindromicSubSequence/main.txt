@@ -1,0 +1,2 @@
+Usage: This technique is used to solve optimization problems related to palindromic sequences or strings.
+DS Involved: Array, HashTable

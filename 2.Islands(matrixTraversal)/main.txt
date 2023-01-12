@@ -1,0 +1,2 @@
+Usage: This pattern describes all the efficient ways of traversing a matrix (or 2D array).
+DS Involved: Matrix, Queue

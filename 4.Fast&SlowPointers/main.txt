@@ -1,0 +1,2 @@
+Usage: Also known as Hare & Tortoise algorithm. This technique uses two pointers that traverse the input data at different speeds.
+DS Involved: Array, String, LinkedList

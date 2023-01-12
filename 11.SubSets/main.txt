@@ -1,0 +1,2 @@
+Usage: Use this technique when the problem asks to deal with permutations or combinations of a set of elements.
+DS Involved: Queue, Array, String

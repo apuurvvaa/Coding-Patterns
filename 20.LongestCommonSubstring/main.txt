@@ -1,0 +1,2 @@
+Usage: Use this technique to find the optimal part of a string/sequence or set of strings/sequences.
+DS Involved: Array, HashTable

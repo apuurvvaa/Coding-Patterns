@@ -1,0 +1,2 @@
+Usage: Use this technique to solve problems that follow the Fibonacci numbers sequence, i.e., every subsequent number is calculated from the last few numbers.
+DS Involved: Array, HashTable
